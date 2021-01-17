@@ -50,6 +50,6 @@ async def on_message(message):
 async def on_message_delete(message):
     await message.channel.send("porquevergaseliminasesemensajehijodeputa")
 
-TOKEN = "NzMwNjk1NTI1NTAxODk0NjY2.XwbPPA.f4fGUoLM3wm4YIpeXpc-LXJzMQY"
+TOKEN = "TOKEN"
 client.run(TOKEN)
 
